@@ -1,6 +1,5 @@
 addpath rvctools
 startup_rvc
-rtbdemo
 
 %clear terminal and environment to ensure clean start
 clc
